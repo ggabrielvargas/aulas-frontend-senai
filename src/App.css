@@ -1,0 +1,19 @@
+#root {
+  display: grid;
+}
+
+header{
+  background-color: rgb(97, 211, 173);
+}
+
+aside{
+  background-color: rgb(35, 35, 168);
+}
+
+main{
+  background-color: brown;
+}
+
+footer{
+  background-color: blueviolet;
+}
