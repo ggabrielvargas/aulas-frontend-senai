@@ -1,4 +1,4 @@
 aside{
-    background-color: rgb(35, 35, 168);
+    background-color: var(--cor-primaria-clara);
     grid-area: ladoEsquerdo;
   }

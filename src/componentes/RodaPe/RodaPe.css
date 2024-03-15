@@ -1,5 +1,5 @@
 footer{
-    background-color: blueviolet;
+    background-color: var(--cor-fundo-padrao);
     grid-area: rodape; 
     display:flex;
     justify-content: center;
@@ -7,6 +7,6 @@ footer{
   }
 
   .texto-copyright{
-    color: #fff;
+    color: #030000;
     
   }

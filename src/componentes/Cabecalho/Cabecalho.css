@@ -1,4 +1,11 @@
 header{
-    background-color: rgb(97, 211, 173);
+    background-color: var(--cor-primaria);
     grid-area: cabecalho;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 0 16px;
   }
+
